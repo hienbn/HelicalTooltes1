@@ -71,6 +71,7 @@ public class SquareEndmill implements FocusListener {
 	// Constant
     // Add Comments		
 	// Geometrical class:
+	// One more change
 	CBlank   theBlank; //
 	CFluting theFlute;
 	CRecess  theRecess;
